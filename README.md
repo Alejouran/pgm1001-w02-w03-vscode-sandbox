@@ -11,4 +11,5 @@ Module 2 and 3
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [W3Schools HTML Intro](https://www.w3schools.com/html/html_intro.asp)
+-[Deploying] (https://www.netlify.com/)
 
